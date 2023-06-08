@@ -1,89 +1,89 @@
 [
   {
     "role": "assistant",
-    "id": "chatcmpl-7PGTE9SUPWr3lc8G2t4nAbgsYzolM",
-    "parentMessageId": "16509c38-34db-4e49-8dee-00f9d7ecb0c5",
-    "text": "¡Hola! ¿En qué puedo ayudarte hoy?",
+    "id": "chatcmpl-7PHjJodnXGP6BELh53R00AXc5eq4F",
+    "parentMessageId": "fccbb71a-1aa7-47ad-8348-b665b4752870",
+    "text": "¡Hola! Soy ChatGPT, un asistente AI al servicio del Dr. Cristian Simons para ayudarte con todas tus inquietudes relacionadas con las consultas médicas en línea. ¿En qué puedo ayudarte hoy?",
     "detail": {
-      "id": "chatcmpl-7PGTE9SUPWr3lc8G2t4nAbgsYzolM",
+      "id": "chatcmpl-7PHjJodnXGP6BELh53R00AXc5eq4F",
       "object": "chat.completion",
-      "created": 1686255868,
+      "created": 1686260709,
       "model": "gpt-3.5-turbo-0301",
       "usage": {
-        "prompt_tokens": 1131,
-        "completion_tokens": 11,
-        "total_tokens": 1142
+        "prompt_tokens": 1104,
+        "completion_tokens": 50,
+        "total_tokens": 1154
       },
       "choices": [
         {
           "message": {
             "role": "assistant",
-            "content": "¡Hola! ¿En qué puedo ayudarte hoy?"
+            "content": "¡Hola! Soy ChatGPT, un asistente AI al servicio del Dr. Cristian Simons para ayudarte con todas tus inquietudes relacionadas con las consultas médicas en línea. ¿En qué puedo ayudarte hoy?"
           },
           "finish_reason": "stop",
           "index": 0
         }
       ]
     },
-    "answer": "¡Hola! ¿En qué puedo ayudarte hoy?",
+    "answer": "¡Hola! Soy ChatGPT, un asistente AI al servicio del Dr. Cristian Simons para ayudarte con todas tus inquietudes relacionadas con las consultas médicas en línea. ¿En qué puedo ayudarte hoy?",
     "from": "59167694685"
   },
   {
     "role": "assistant",
-    "id": "chatcmpl-7PGTN5xBqoop4Rh50f29vkcBi6e38",
-    "parentMessageId": "87d685eb-dff1-4efb-94a0-a9cb98efd136",
-    "text": "¡Genial! Puedes registrarte para una consulta en línea con el Dr. Simons a través del siguiente enlace: [https://drsimonscristian.com]. Una vez que te hayas registrado, podrás seleccionar la fecha y hora de tu preferencia para la consulta y realizar el pago utilizando nuestro método seguro de Hotmart. Si necesitas ayuda durante el proceso de registro o pago, no dudes en hacérmelo saber. ¡Estoy aquí para ayudarte! 😊🌐☝️",
+    "id": "chatcmpl-7PHjZW0qtCcryC5URpdmkTB0RBFce",
+    "parentMessageId": "a8c431a3-9704-4ad5-b713-7789a3a7a92a",
+    "text": "¡Hola! Puedes registrarte en la consulta en línea con el Dr. Cristian Simons en su sitio web oficial, que es [https://drsimonscristian.com]. Allí encontrarás el botón \"Agenda tu cita\", que te permitirá programar una consulta y realizar el pago correspondiente a través de Hotmart, nuestro método de pago seguro. Una vez realizado el pago, envíanos el comprobante a este mismo contacto para que podamos confirmarlo y proporcionarte el enlace para programar tu cita en Calendly. Si tienes alguna otra pregunta o necesitas ayuda con el proceso, ¡no dudes en preguntar!",
     "detail": {
-      "id": "chatcmpl-7PGTN5xBqoop4Rh50f29vkcBi6e38",
+      "id": "chatcmpl-7PHjZW0qtCcryC5URpdmkTB0RBFce",
       "object": "chat.completion",
-      "created": 1686255877,
+      "created": 1686260725,
       "model": "gpt-3.5-turbo-0301",
       "usage": {
-        "prompt_tokens": 2230,
-        "completion_tokens": 110,
-        "total_tokens": 2340
+        "prompt_tokens": 2172,
+        "completion_tokens": 138,
+        "total_tokens": 2310
       },
       "choices": [
         {
           "message": {
             "role": "assistant",
-            "content": "¡Genial! Puedes registrarte para una consulta en línea con el Dr. Simons a través del siguiente enlace: [https://drsimonscristian.com]. Una vez que te hayas registrado, podrás seleccionar la fecha y hora de tu preferencia para la consulta y realizar el pago utilizando nuestro método seguro de Hotmart. Si necesitas ayuda durante el proceso de registro o pago, no dudes en hacérmelo saber. ¡Estoy aquí para ayudarte! 😊🌐☝️"
+            "content": "¡Hola! Puedes registrarte en la consulta en línea con el Dr. Cristian Simons en su sitio web oficial, que es [https://drsimonscristian.com]. Allí encontrarás el botón \"Agenda tu cita\", que te permitirá programar una consulta y realizar el pago correspondiente a través de Hotmart, nuestro método de pago seguro. Una vez realizado el pago, envíanos el comprobante a este mismo contacto para que podamos confirmarlo y proporcionarte el enlace para programar tu cita en Calendly. Si tienes alguna otra pregunta o necesitas ayuda con el proceso, ¡no dudes en preguntar!"
           },
           "finish_reason": "stop",
           "index": 0
         }
       ]
     },
-    "answer": "¡Genial! Puedes registrarte para una consulta en línea con el Dr. Simons a través del siguiente enlace: [https://drsimonscristian.com]. Una vez que te hayas registrado, podrás seleccionar la fecha y hora de tu preferencia para la consulta y realizar el pago utilizando nuestro método seguro de Hotmart. Si necesitas ayuda durante el proceso de registro o pago, no dudes en hacérmelo saber. ¡Estoy aquí para ayudarte! 😊🌐☝️",
+    "answer": "¡Hola! Puedes registrarte en la consulta en línea con el Dr. Cristian Simons en su sitio web oficial, que es [https://drsimonscristian.com]. Allí encontrarás el botón \"Agenda tu cita\", que te permitirá programar una consulta y realizar el pago correspondiente a través de Hotmart, nuestro método de pago seguro. Una vez realizado el pago, envíanos el comprobante a este mismo contacto para que podamos confirmarlo y proporcionarte el enlace para programar tu cita en Calendly. Si tienes alguna otra pregunta o necesitas ayuda con el proceso, ¡no dudes en preguntar!",
     "from": "59167694685"
   },
   {
     "role": "assistant",
-    "id": "chatcmpl-7PGlHgj2BiPiXkKQEjC9oZuUzefWU",
-    "parentMessageId": "59599e48-6e30-4cfb-9a84-bab8bed63a58",
-    "text": "¡Excelente! Una vez que hayas realizado el pago, recibirás un correo electrónico de confirmación con los detalles de tu cita en línea. En este correo electrónico también encontrarás un enlace para acceder a la plataforma de videoconferencia que utilizamos para las consultas en línea. Recuerda que es importante tener una conexión estable a internet y una computadora o dispositivo móvil con cámara y micrófono para poder conectarte con el Dr. Simons en la fecha y hora programada. Si tienes alguna otra pregunta o inquietud durante el proceso, por favor házmelo saber. ¡Estoy aquí para ayudarte! 😊👍",
+    "id": "chatcmpl-7PHkg8DH9jvKzaUyfWj3HQV38hICh",
+    "parentMessageId": "599e9829-0872-4664-bd52-12f92724330a",
+    "text": "Soy un asistente virtual y no tengo acceso al número al que te refieres. Sin embargo, por lo general, el procedimiento para enviar el comprobante de pago puede variar según la clínica médica o el profesional de la salud. Te sugiero que consultes con el Dr. Simons o su equipo sobre los detalles específicos del proceso de envío del comprobante de pago para su consulta en línea. Puedes encontrar más información y contactarlos a través de su sitio web oficial [https://drsimonscristian.com]. ¡Espero que esto te ayude!",
     "detail": {
-      "id": "chatcmpl-7PGlHgj2BiPiXkKQEjC9oZuUzefWU",
+      "id": "chatcmpl-7PHkg8DH9jvKzaUyfWj3HQV38hICh",
       "object": "chat.completion",
-      "created": 1686256987,
+      "created": 1686260794,
       "model": "gpt-3.5-turbo-0301",
       "usage": {
-        "prompt_tokens": 2418,
-        "completion_tokens": 139,
-        "total_tokens": 2557
+        "prompt_tokens": 2332,
+        "completion_tokens": 127,
+        "total_tokens": 2459
       },
       "choices": [
         {
           "message": {
             "role": "assistant",
-            "content": "¡Excelente! Una vez que hayas realizado el pago, recibirás un correo electrónico de confirmación con los detalles de tu cita en línea. En este correo electrónico también encontrarás un enlace para acceder a la plataforma de videoconferencia que utilizamos para las consultas en línea. Recuerda que es importante tener una conexión estable a internet y una computadora o dispositivo móvil con cámara y micrófono para poder conectarte con el Dr. Simons en la fecha y hora programada. Si tienes alguna otra pregunta o inquietud durante el proceso, por favor házmelo saber. ¡Estoy aquí para ayudarte! 😊👍"
+            "content": "Soy un asistente virtual y no tengo acceso al número al que te refieres. Sin embargo, por lo general, el procedimiento para enviar el comprobante de pago puede variar según la clínica médica o el profesional de la salud. Te sugiero que consultes con el Dr. Simons o su equipo sobre los detalles específicos del proceso de envío del comprobante de pago para su consulta en línea. Puedes encontrar más información y contactarlos a través de su sitio web oficial [https://drsimonscristian.com]. ¡Espero que esto te ayude!"
           },
           "finish_reason": "stop",
           "index": 0
         }
       ]
     },
-    "answer": "¡Excelente! Una vez que hayas realizado el pago, recibirás un correo electrónico de confirmación con los detalles de tu cita en línea. En este correo electrónico también encontrarás un enlace para acceder a la plataforma de videoconferencia que utilizamos para las consultas en línea. Recuerda que es importante tener una conexión estable a internet y una computadora o dispositivo móvil con cámara y micrófono para poder conectarte con el Dr. Simons en la fecha y hora programada. Si tienes alguna otra pregunta o inquietud durante el proceso, por favor házmelo saber. ¡Estoy aquí para ayudarte! 😊👍",
+    "answer": "Soy un asistente virtual y no tengo acceso al número al que te refieres. Sin embargo, por lo general, el procedimiento para enviar el comprobante de pago puede variar según la clínica médica o el profesional de la salud. Te sugiero que consultes con el Dr. Simons o su equipo sobre los detalles específicos del proceso de envío del comprobante de pago para su consulta en línea. Puedes encontrar más información y contactarlos a través de su sitio web oficial [https://drsimonscristian.com]. ¡Espero que esto te ayude!",
     "from": "59167694685"
   }
 ]
