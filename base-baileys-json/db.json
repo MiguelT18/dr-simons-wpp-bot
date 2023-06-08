@@ -1,147 +1,89 @@
 [
   {
     "role": "assistant",
-    "id": "chatcmpl-7OwIc94OxSMRIAdyLomXkW5F0aTZ8",
-    "parentMessageId": "29cc0110-9b70-4fb0-811c-b7d3f73b5e5c",
-    "text": "Hola! Estoy programado para ayudarte con cualquier consulta relacionada con las citas médicas, pagos y procedimientos quirúrgicos en línea. ¿En qué puedo ayudarte hoy?",
+    "id": "chatcmpl-7PGTE9SUPWr3lc8G2t4nAbgsYzolM",
+    "parentMessageId": "16509c38-34db-4e49-8dee-00f9d7ecb0c5",
+    "text": "¡Hola! ¿En qué puedo ayudarte hoy?",
     "detail": {
-      "id": "chatcmpl-7OwIc94OxSMRIAdyLomXkW5F0aTZ8",
+      "id": "chatcmpl-7PGTE9SUPWr3lc8G2t4nAbgsYzolM",
       "object": "chat.completion",
-      "created": 1686178330,
+      "created": 1686255868,
       "model": "gpt-3.5-turbo-0301",
       "usage": {
-        "prompt_tokens": 1134,
-        "completion_tokens": 40,
-        "total_tokens": 1174
+        "prompt_tokens": 1131,
+        "completion_tokens": 11,
+        "total_tokens": 1142
       },
       "choices": [
         {
           "message": {
             "role": "assistant",
-            "content": "Hola! Estoy programado para ayudarte con cualquier consulta relacionada con las citas médicas, pagos y procedimientos quirúrgicos en línea. ¿En qué puedo ayudarte hoy?"
+            "content": "¡Hola! ¿En qué puedo ayudarte hoy?"
           },
           "finish_reason": "stop",
           "index": 0
         }
       ]
     },
-    "answer": "Hola! Estoy programado para ayudarte con cualquier consulta relacionada con las citas médicas, pagos y procedimientos quirúrgicos en línea. ¿En qué puedo ayudarte hoy?",
+    "answer": "¡Hola! ¿En qué puedo ayudarte hoy?",
     "from": "59167694685"
   },
   {
     "role": "assistant",
-    "id": "chatcmpl-7OwIrZxRtDyf48MSdIgd5DgML6Qnn",
-    "parentMessageId": "1e23db94-50e0-473f-b3f1-99457ce35a63",
-    "text": "¡Claro, estaré encantado de ayudarte! En nuestra consulta en línea con el Dr. Simons, podrás discutir tus inquietudes y obtener recomendaciones personalizadas para tu caso específico. Durante la consulta en línea, el Dr. Simons evaluará tu historial médico y te preguntará sobre tus objetivos estéticos antes de proporcionarte una evaluación detallada y un plan de tratamiento personalizado. La consulta tiene un costo de $39 USD y se puede realizar a través de nuestro método de pago principal Hotmart, que acepta todo tipo de pagos en más de 200 países. Si tienes alguna pregunta específica sobre la consulta en línea, no dudes en hacérmela saber. ¡Estoy aquí para ayudarte! 😊",
+    "id": "chatcmpl-7PGTN5xBqoop4Rh50f29vkcBi6e38",
+    "parentMessageId": "87d685eb-dff1-4efb-94a0-a9cb98efd136",
+    "text": "¡Genial! Puedes registrarte para una consulta en línea con el Dr. Simons a través del siguiente enlace: [https://drsimonscristian.com]. Una vez que te hayas registrado, podrás seleccionar la fecha y hora de tu preferencia para la consulta y realizar el pago utilizando nuestro método seguro de Hotmart. Si necesitas ayuda durante el proceso de registro o pago, no dudes en hacérmelo saber. ¡Estoy aquí para ayudarte! 😊🌐☝️",
     "detail": {
-      "id": "chatcmpl-7OwIrZxRtDyf48MSdIgd5DgML6Qnn",
+      "id": "chatcmpl-7PGTN5xBqoop4Rh50f29vkcBi6e38",
       "object": "chat.completion",
-      "created": 1686178345,
+      "created": 1686255877,
       "model": "gpt-3.5-turbo-0301",
       "usage": {
-        "prompt_tokens": 2261,
-        "completion_tokens": 167,
-        "total_tokens": 2428
+        "prompt_tokens": 2230,
+        "completion_tokens": 110,
+        "total_tokens": 2340
       },
       "choices": [
         {
           "message": {
             "role": "assistant",
-            "content": "¡Claro, estaré encantado de ayudarte! En nuestra consulta en línea con el Dr. Simons, podrás discutir tus inquietudes y obtener recomendaciones personalizadas para tu caso específico. Durante la consulta en línea, el Dr. Simons evaluará tu historial médico y te preguntará sobre tus objetivos estéticos antes de proporcionarte una evaluación detallada y un plan de tratamiento personalizado. La consulta tiene un costo de $39 USD y se puede realizar a través de nuestro método de pago principal Hotmart, que acepta todo tipo de pagos en más de 200 países. Si tienes alguna pregunta específica sobre la consulta en línea, no dudes en hacérmela saber. ¡Estoy aquí para ayudarte! 😊"
+            "content": "¡Genial! Puedes registrarte para una consulta en línea con el Dr. Simons a través del siguiente enlace: [https://drsimonscristian.com]. Una vez que te hayas registrado, podrás seleccionar la fecha y hora de tu preferencia para la consulta y realizar el pago utilizando nuestro método seguro de Hotmart. Si necesitas ayuda durante el proceso de registro o pago, no dudes en hacérmelo saber. ¡Estoy aquí para ayudarte! 😊🌐☝️"
           },
           "finish_reason": "stop",
           "index": 0
         }
       ]
     },
-    "answer": "¡Claro, estaré encantado de ayudarte! En nuestra consulta en línea con el Dr. Simons, podrás discutir tus inquietudes y obtener recomendaciones personalizadas para tu caso específico. Durante la consulta en línea, el Dr. Simons evaluará tu historial médico y te preguntará sobre tus objetivos estéticos antes de proporcionarte una evaluación detallada y un plan de tratamiento personalizado. La consulta tiene un costo de $39 USD y se puede realizar a través de nuestro método de pago principal Hotmart, que acepta todo tipo de pagos en más de 200 países. Si tienes alguna pregunta específica sobre la consulta en línea, no dudes en hacérmela saber. ¡Estoy aquí para ayudarte! 😊",
+    "answer": "¡Genial! Puedes registrarte para una consulta en línea con el Dr. Simons a través del siguiente enlace: [https://drsimonscristian.com]. Una vez que te hayas registrado, podrás seleccionar la fecha y hora de tu preferencia para la consulta y realizar el pago utilizando nuestro método seguro de Hotmart. Si necesitas ayuda durante el proceso de registro o pago, no dudes en hacérmelo saber. ¡Estoy aquí para ayudarte! 😊🌐☝️",
     "from": "59167694685"
   },
   {
     "role": "assistant",
-    "id": "chatcmpl-7OwJVZUa2G81hOroCjdNhoU2DanYC",
-    "parentMessageId": "f7c44c04-6aab-45b8-8b69-1ac9ed8f6577",
-    "text": "¡Gracias por tu pregunta! Para programar una consulta en línea con el Dr. Simons, por favor visita nuestro sitio web en [https://drsimonscristian.com] y haz clic en el botón de \"Agendar Consulta\". Luego, sigues los pasos para completar tu registro e ingresar tus datos personales. Una vez hayas completado el proceso de registro, podrás seleccionar la fecha y hora para tu consulta en línea. Si tienes alguna dificultad o pregunta durante el proceso, no dudes en hacérmela saber. ¡Estoy aquí para ayudarte! 😊",
+    "id": "chatcmpl-7PGlHgj2BiPiXkKQEjC9oZuUzefWU",
+    "parentMessageId": "59599e48-6e30-4cfb-9a84-bab8bed63a58",
+    "text": "¡Excelente! Una vez que hayas realizado el pago, recibirás un correo electrónico de confirmación con los detalles de tu cita en línea. En este correo electrónico también encontrarás un enlace para acceder a la plataforma de videoconferencia que utilizamos para las consultas en línea. Recuerda que es importante tener una conexión estable a internet y una computadora o dispositivo móvil con cámara y micrófono para poder conectarte con el Dr. Simons en la fecha y hora programada. Si tienes alguna otra pregunta o inquietud durante el proceso, por favor házmelo saber. ¡Estoy aquí para ayudarte! 😊👍",
     "detail": {
-      "id": "chatcmpl-7OwJVZUa2G81hOroCjdNhoU2DanYC",
+      "id": "chatcmpl-7PGlHgj2BiPiXkKQEjC9oZuUzefWU",
       "object": "chat.completion",
-      "created": 1686178385,
+      "created": 1686256987,
       "model": "gpt-3.5-turbo-0301",
       "usage": {
-        "prompt_tokens": 2438,
-        "completion_tokens": 129,
-        "total_tokens": 2567
+        "prompt_tokens": 2418,
+        "completion_tokens": 139,
+        "total_tokens": 2557
       },
       "choices": [
         {
           "message": {
             "role": "assistant",
-            "content": "¡Gracias por tu pregunta! Para programar una consulta en línea con el Dr. Simons, por favor visita nuestro sitio web en [https://drsimonscristian.com] y haz clic en el botón de \"Agendar Consulta\". Luego, sigues los pasos para completar tu registro e ingresar tus datos personales. Una vez hayas completado el proceso de registro, podrás seleccionar la fecha y hora para tu consulta en línea. Si tienes alguna dificultad o pregunta durante el proceso, no dudes en hacérmela saber. ¡Estoy aquí para ayudarte! 😊"
+            "content": "¡Excelente! Una vez que hayas realizado el pago, recibirás un correo electrónico de confirmación con los detalles de tu cita en línea. En este correo electrónico también encontrarás un enlace para acceder a la plataforma de videoconferencia que utilizamos para las consultas en línea. Recuerda que es importante tener una conexión estable a internet y una computadora o dispositivo móvil con cámara y micrófono para poder conectarte con el Dr. Simons en la fecha y hora programada. Si tienes alguna otra pregunta o inquietud durante el proceso, por favor házmelo saber. ¡Estoy aquí para ayudarte! 😊👍"
           },
           "finish_reason": "stop",
           "index": 0
         }
       ]
     },
-    "answer": "¡Gracias por tu pregunta! Para programar una consulta en línea con el Dr. Simons, por favor visita nuestro sitio web en [https://drsimonscristian.com] y haz clic en el botón de \"Agendar Consulta\". Luego, sigues los pasos para completar tu registro e ingresar tus datos personales. Una vez hayas completado el proceso de registro, podrás seleccionar la fecha y hora para tu consulta en línea. Si tienes alguna dificultad o pregunta durante el proceso, no dudes en hacérmela saber. ¡Estoy aquí para ayudarte! 😊",
-    "from": "59167694685"
-  },
-  {
-    "role": "assistant",
-    "id": "chatcmpl-7OwKLXeCWt3yeRys3EVakQOVqpkqn",
-    "parentMessageId": "81f2a990-423c-4a76-a838-c04b3e7a5120",
-    "text": "Como modelo de lenguaje, no tengo emociones ni preferencias personales. Mi función es proporcionar respuestas útiles y precisas a tus preguntas para ayudarte en lo que necesites. Pero si te gustan los emojis, ¡estoy aquí para ayudarte a usarlos! 😊",
-    "detail": {
-      "id": "chatcmpl-7OwKLXeCWt3yeRys3EVakQOVqpkqn",
-      "object": "chat.completion",
-      "created": 1686178437,
-      "model": "gpt-3.5-turbo-0301",
-      "usage": {
-        "prompt_tokens": 2645,
-        "completion_tokens": 63,
-        "total_tokens": 2708
-      },
-      "choices": [
-        {
-          "message": {
-            "role": "assistant",
-            "content": "Como modelo de lenguaje, no tengo emociones ni preferencias personales. Mi función es proporcionar respuestas útiles y precisas a tus preguntas para ayudarte en lo que necesites. Pero si te gustan los emojis, ¡estoy aquí para ayudarte a usarlos! 😊"
-          },
-          "finish_reason": "stop",
-          "index": 0
-        }
-      ]
-    },
-    "answer": "Como modelo de lenguaje, no tengo emociones ni preferencias personales. Mi función es proporcionar respuestas útiles y precisas a tus preguntas para ayudarte en lo que necesites. Pero si te gustan los emojis, ¡estoy aquí para ayudarte a usarlos! 😊",
-    "from": "59167694685"
-  },
-  {
-    "role": "assistant",
-    "id": "chatcmpl-7OwKohnSixuG3mCYXiE9cMtn6nsph",
-    "parentMessageId": "ef5331ae-9073-4c46-81f6-1e5b443e8c74",
-    "text": "¡Claro! Aquí te muestro 5 emojis populares:\n\n1. 😊 Carita sonriendo - se usa para expresar felicidad o amabilidad\n2. 🌟 Estrella resplandeciente - se usa para demostrar emoción, celebración o éxito\n3. 📞 Teléfono - se usa para denotar una llamada telefónica o comunicación\n4. 💰 Bolsa de dinero - se usa para referirse a dinero, finanzas o riqueza\n5. 🏥 Edificio del hospital - se usa para referirse a temas relacionados con la salud o la medicina\n\nEspero que esto sea útil. Si necesitas algo más, ¡no dudes en preguntar!",
-    "detail": {
-      "id": "chatcmpl-7OwKohnSixuG3mCYXiE9cMtn6nsph",
-      "object": "chat.completion",
-      "created": 1686178466,
-      "model": "gpt-3.5-turbo-0301",
-      "usage": {
-        "prompt_tokens": 2784,
-        "completion_tokens": 164,
-        "total_tokens": 2948
-      },
-      "choices": [
-        {
-          "message": {
-            "role": "assistant",
-            "content": "¡Claro! Aquí te muestro 5 emojis populares:\n\n1. 😊 Carita sonriendo - se usa para expresar felicidad o amabilidad\n2. 🌟 Estrella resplandeciente - se usa para demostrar emoción, celebración o éxito\n3. 📞 Teléfono - se usa para denotar una llamada telefónica o comunicación\n4. 💰 Bolsa de dinero - se usa para referirse a dinero, finanzas o riqueza\n5. 🏥 Edificio del hospital - se usa para referirse a temas relacionados con la salud o la medicina\n\nEspero que esto sea útil. Si necesitas algo más, ¡no dudes en preguntar!"
-          },
-          "finish_reason": "stop",
-          "index": 0
-        }
-      ]
-    },
-    "answer": "¡Claro! Aquí te muestro 5 emojis populares:\n\n1. 😊 Carita sonriendo - se usa para expresar felicidad o amabilidad\n2. 🌟 Estrella resplandeciente - se usa para demostrar emoción, celebración o éxito\n3. 📞 Teléfono - se usa para denotar una llamada telefónica o comunicación\n4. 💰 Bolsa de dinero - se usa para referirse a dinero, finanzas o riqueza\n5. 🏥 Edificio del hospital - se usa para referirse a temas relacionados con la salud o la medicina\n\nEspero que esto sea útil. Si necesitas algo más, ¡no dudes en preguntar!",
+    "answer": "¡Excelente! Una vez que hayas realizado el pago, recibirás un correo electrónico de confirmación con los detalles de tu cita en línea. En este correo electrónico también encontrarás un enlace para acceder a la plataforma de videoconferencia que utilizamos para las consultas en línea. Recuerda que es importante tener una conexión estable a internet y una computadora o dispositivo móvil con cámara y micrófono para poder conectarte con el Dr. Simons en la fecha y hora programada. Si tienes alguna otra pregunta o inquietud durante el proceso, por favor házmelo saber. ¡Estoy aquí para ayudarte! 😊👍",
     "from": "59167694685"
   }
 ]

@@ -52,6 +52,9 @@ class chatGPTClass extends CoreClass {
     if (parseMessage.answer.includes("http")) {
       const link = parseMessage.answer.match(/(http[s]?:\/\/[^\s]+)/g);
       this.keyPoints += `\n\nEnlace para consulta en línea: ${link}`;
+
+      // Avisar en la consola antes de enviar el enlace
+      console.log(`Se enviará el siguiente enlace: ${link}`);
     }
 
     // Enviar la respusta al usuario
