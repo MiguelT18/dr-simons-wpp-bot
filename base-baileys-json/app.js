@@ -3,7 +3,7 @@ require("dotenv").config();
 const { createProvider } = require("@bot-whatsapp/bot");
 
 const QRPortalWeb = require("@bot-whatsapp/portal");
-const BaileysProvider = require("@bot-whatsapp/provider/baileys");
+const WhatsAppWebProvider = require("@bot-whatsapp/provider/web-whatsapp");
 const JsonFileAdapter = require("@bot-whatsapp/database/json");
 
 const chatGPTClass = require("./chatgpt.class.js");
@@ -15,7 +15,7 @@ const createBotGPT = async ({ provider, database }) => {
 const main = async () => {
   try {
     const adapterDB = new JsonFileAdapter();
-    const adapterProvider = createProvider(BaileysProvider);
+    const adapterProvider = createProvider(WhatsAppWebProvider);
 
     // Crear instancia del bot con la configuración de OpenAI
     createBotGPT({

@@ -1,5 +1,5 @@
 const { CoreClass, MessageType } = require("@bot-whatsapp/bot");
-const keyPoints = require("./src/keyPoints.json");
+const keyPoints = require("./keyPoints.json");
 const emoji = require("node-emoji");
 const emojiRegex = require("emoji-regex");
 
@@ -106,27 +106,27 @@ class chatGPTClass extends CoreClass {
       });
 
       this.queue.push(completion);
+
+      // No incluir los keyPoints en la respuesta final
+      const parseMessage = {
+        ...completion,
+        answer: this.addEmojis(completion.text),
+      };
+
+      // Si la respuesta incluye un enlace, extraerlo y agregarlo a los keyPoints
+      if (parseMessage.answer.includes("http")) {
+        const link = parseMessage.answer.match(/(http[s]?:\/\/[^\s]+)/g);
+        this.keyPoints += `\n\nEnlace para consulta en línea: ${link}`;
+
+        // Avisar en la consola antes de enviar el enlace
+        console.log(`Se enviará el siguiente enlace: ${link}`);
+      }
+
+      // Enviar la respusta al usuario
+      this.sendFlowSimple([parseMessage], from);
     } catch (error) {
       console.log("Hubo un error al llamar a la API de OpenAI: ", error);
     }
-
-    // No incluir los keyPoints en la respuesta final
-    const parseMessage = {
-      ...completion,
-      answer: this.addEmojis(completion.text),
-    };
-
-    // Si la respuesta incluye un enlace, extraerlo y agregarlo a los keyPoints
-    if (parseMessage.answer.includes("http")) {
-      const link = parseMessage.answer.match(/(http[s]?:\/\/[^\s]+)/g);
-      this.keyPoints += `\n\nEnlace para consulta en línea: ${link}`;
-
-      // Avisar en la consola antes de enviar el enlace
-      console.log(`Se enviará el siguiente enlace: ${link}`);
-    }
-
-    // Enviar la respusta al usuario
-    this.sendFlowSimple([parseMessage], from);
   };
 
   //? BUILDPROMPT
