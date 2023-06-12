@@ -1,60 +1,31 @@
 [
   {
     "role": "assistant",
-    "id": "chatcmpl-7Qj7ifIeMuEP1HVqcnkeQ36aJmyGJ",
-    "parentMessageId": "8ccbb598-50d5-45af-bf54-6e8b098f3fee",
-    "text": "Hola, por favor haz clic en este enlace [https://payqr.drsimonscristian.com/] para obtener el código QR y realizar la transferencia bancaria. Los detalles de las cuentas bancarias se proporcionarán una vez que hayas realizado la inscripción a través de nuestra plataforma de pago principal, Hotmart. Recuerda enviarnos una copia del comprobante de pago para confirmar tu cita y programarla a través de Calendly. ¡Estamos aquí para ayudarte en cada paso del proceso de pago! 💰💳",
+    "id": "chatcmpl-7Qk71EgAUG3sNiUrW6MutB7xz66sA",
+    "parentMessageId": "34e49760-6dd0-491f-8e7a-3b3b2d50bf68",
+    "text": "¡Hola! ¿En qué puedo ayudarte hoy? Recuerda que estoy aquí para responder cualquier pregunta relacionada con las consultas en línea con el Dr. Simons, programación de citas y pagos.",
     "detail": {
-      "id": "chatcmpl-7Qj7ifIeMuEP1HVqcnkeQ36aJmyGJ",
+      "id": "chatcmpl-7Qk71EgAUG3sNiUrW6MutB7xz66sA",
       "object": "chat.completion",
-      "created": 1686604338,
+      "created": 1686608139,
       "model": "gpt-3.5-turbo-0301",
       "usage": {
-        "prompt_tokens": 1192,
-        "completion_tokens": 120,
-        "total_tokens": 1312
+        "prompt_tokens": 1135,
+        "completion_tokens": 44,
+        "total_tokens": 1179
       },
       "choices": [
         {
           "message": {
             "role": "assistant",
-            "content": "Hola, por favor haz clic en este enlace [https://payqr.drsimonscristian.com/] para obtener el código QR y realizar la transferencia bancaria. Los detalles de las cuentas bancarias se proporcionarán una vez que hayas realizado la inscripción a través de nuestra plataforma de pago principal, Hotmart. Recuerda enviarnos una copia del comprobante de pago para confirmar tu cita y programarla a través de Calendly. ¡Estamos aquí para ayudarte en cada paso del proceso de pago! 💰💳"
+            "content": "¡Hola! ¿En qué puedo ayudarte hoy? Recuerda que estoy aquí para responder cualquier pregunta relacionada con las consultas en línea con el Dr. Simons, programación de citas y pagos."
           },
           "finish_reason": "stop",
           "index": 0
         }
       ]
     },
-    "answer": "Hola, por favor haz clic en este enlace [https://payqr.drsimonscristian.com/] para obtener el código QR y realizar la transferencia bancaria. Los detalles de las cuentas bancarias se proporcionarán una vez que hayas realizado la inscripción a través de nuestra plataforma de pago principal, Hotmart. Recuerda enviarnos una copia del comprobante de pago para confirmar tu cita y programarla a través de Calendly. ¡Estamos aquí para ayudarte en cada paso del proceso de pago! 💰💳",
-    "from": "59167694685"
-  },
-  {
-    "role": "assistant",
-    "id": "chatcmpl-7Qj9gbWKEdMLAariIchAatRT3GGrJ",
-    "parentMessageId": "f3d8e96b-8a91-4a1d-b6f4-032362985379",
-    "text": "Lo siento, como modelo de lenguaje basado en texto no puedo visualizar imágenes o videos. ¿En qué más puedo ayudarte?",
-    "detail": {
-      "id": "chatcmpl-7Qj9gbWKEdMLAariIchAatRT3GGrJ",
-      "object": "chat.completion",
-      "created": 1686604460,
-      "model": "gpt-3.5-turbo-0301",
-      "usage": {
-        "prompt_tokens": 1349,
-        "completion_tokens": 30,
-        "total_tokens": 1379
-      },
-      "choices": [
-        {
-          "message": {
-            "role": "assistant",
-            "content": "Lo siento, como modelo de lenguaje basado en texto no puedo visualizar imágenes o videos. ¿En qué más puedo ayudarte?"
-          },
-          "finish_reason": "stop",
-          "index": 0
-        }
-      ]
-    },
-    "answer": "Lo siento, como modelo de lenguaje basado en texto no puedo visualizar imágenes o videos. ¿En qué más puedo ayudarte?",
+    "answer": "¡Hola! ¿En qué puedo ayudarte hoy? Recuerda que estoy aquí para responder cualquier pregunta relacionada con las consultas en línea con el Dr. Simons, programación de citas y pagos.",
     "from": "59167694685"
   }
 ]
