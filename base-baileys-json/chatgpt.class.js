@@ -19,6 +19,15 @@ class chatGPTClass extends CoreClass {
   //? Iniciando...
   init = async () => {
     const { ChatGPTAPI } = await import("chatgpt");
+
+    if (!process.env.OPENAI_API_KEY) {
+      //! Error al buscar la clave api
+      console.log(
+        "No se encontró la clave API de OpenAI. Asegúrate de que esté configurada correctamente"
+      );
+      return;
+    }
+
     this.openai = new ChatGPTAPI({
       apiKey: process.env.OPENAI_API_KEY,
     });
@@ -29,7 +38,7 @@ class chatGPTClass extends CoreClass {
     const { from, body, type, hasMedia } = ctx;
 
     if (this.awaitingPaymentConfirmation) {
-      //! El bot está esperando la confirmación de pago
+      // El bot está esperando la confirmación de pago
 
       if (body.toLowerCase() === "comprobante") {
         // El usuario ha enviado un mensaje con la palabra "comprobante"
@@ -55,7 +64,7 @@ class chatGPTClass extends CoreClass {
     }
 
     if (this.awaitingReceipt) {
-      //! El bot está esperando el comprobante de pago
+      // El bot está esperando el comprobante de pago
 
       if (type === MessageType.image && hasMedia) {
         // El usuario ha enviado una imagen como comprobante de pago
@@ -85,16 +94,21 @@ class chatGPTClass extends CoreClass {
     // Construir el prompt dinámicamente
     const prompt = this.buildPrompt(body, isFirstMessage);
 
-    const completion = await this.openai.sendMessage(prompt, {
-      conversationId: !this.queue.length
-        ? undefined
-        : this.queue[this.queue.length - 1].conversationId,
-      parentMessageId: !this.queue.length
-        ? undefined
-        : this.queue[this.queue.length - 1].id,
-    });
+    //! Manejo de errores para la llamada a this.openai.sendMessage
+    try {
+      const completion = await this.openai.sendMessage(prompt, {
+        conversationId: !this.queue.length
+          ? undefined
+          : this.queue[this.queue.length - 1].conversationId,
+        parentMessageId: !this.queue.length
+          ? undefined
+          : this.queue[this.queue.length - 1].id,
+      });
 
-    this.queue.push(completion);
+      this.queue.push(completion);
+    } catch (error) {
+      console.log("Hubo un error al llamar a la API de OpenAI: ", error);
+    }
 
     // No incluir los keyPoints en la respuesta final
     const parseMessage = {
