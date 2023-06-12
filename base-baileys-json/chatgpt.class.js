@@ -10,6 +10,8 @@ class chatGPTClass extends CoreClass {
   keyPoints = keyPoints;
   awaitingPaymentConfirmation = false;
   awaitingReceipt = false;
+  userMessages = [];
+  timer = null;
 
   constructor(_database, _provider, _optionsGPT = {}) {
     super(null, _database, _provider);
@@ -35,64 +37,35 @@ class chatGPTClass extends CoreClass {
 
   //? Manejo de Mensajes
   handleMsg = async (ctx) => {
-    const { from, body, type, hasMedia } = ctx;
+    const { from, body } = ctx;
 
-    if (this.awaitingPaymentConfirmation) {
-      // El bot está esperando la confirmación de pago
+    // Agrega el mensaje a la lista de mensajes del usuario
+    this.userMessages.push(body);
 
-      if (body.toLowerCase() === "comprobante") {
-        // El usuario ha enviado un mensaje con la palabra "comprobante"
-        // Solicitar el comprobante al usuario
-
-        this.awaitingPaymentConfirmation = false;
-        this.awaitingReceipt = true;
-        console.log("Se solicita el comprobante de pago");
-        this.sendFlowSimple(
-          [
-            {
-              type: MessageType.text,
-              body: "Por favor, envía el comprobante de pago.",
-            },
-          ],
-          from
-        );
-        return;
-      }
-
-      // Si el usuario no envía un mensaje con la palabra "comprobante", continúa con la interaciión normal
-      this.awaitingPaymentConfirmation = false;
+    // Si ya hay un temporizador en marcha lo cancela
+    if (this.timer) {
+      clearTimeout(this.timer);
     }
 
-    if (this.awaitingReceipt) {
-      // El bot está esperando el comprobante de pago
+    // Inicia un nuevo temporizador
+    this.timer = setTimeout(() => {
+      // Cuando el temporizador se agota, procesa todos los mensajes del usuario
+      this.processMessages(from);
+    }, 10000);
+  };
 
-      if (type === MessageType.image && hasMedia) {
-        // El usuario ha enviado una imagen como comprobante de pago
+  processMessages = async (from) => {
+    // Une todos los mensajes del usuario con un salto de línea entre ellos
+    let fullMessage = this.userMessages.join("\n");
 
-        this.awaitingReceipt = false;
-        console.log("Se recibió un comprobante de pago");
-        this.sendFlowSimple(
-          [
-            {
-              type: MessageType.text,
-              body: "Gracias por enviar tu comprobante de pago. Procesaré tu solicitud.",
-            },
-          ],
-          from
-        );
-
-        return;
-      }
-
-      // Si el usuario no envía una imagen como comprobante, continuar con la interacción normal
-      this.awaitingReceipt = false;
-    }
+    // Limpia la lista de mensajes del usuario
+    this.userMessages = [];
 
     // Verificar si es el primer mensaje de la conversación
     const isFirstMessage = this.queue.length === 0;
 
     // Construir el prompt dinámicamente
-    const prompt = this.buildPrompt(body, isFirstMessage);
+    const prompt = this.buildPrompt(fullMessage, isFirstMessage);
 
     //! Manejo de errores para la llamada a this.openai.sendMessage
     try {
