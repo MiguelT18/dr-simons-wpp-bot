@@ -1,3 +1,2 @@
-2023/06/12-18:39:10.849 645b Reusing MANIFEST /home/miguel/proyectos/DrCristianSimons/consulta-en-linea/wpp-bot/base-baileys-json/.wwebjs_auth/session-bot_sessions/Default/Session Storage/MANIFEST-000001
-2023/06/12-18:39:10.850 645b Recovering log #3
-2023/06/12-18:39:10.850 645b Reusing old log /home/miguel/proyectos/DrCristianSimons/consulta-en-linea/wpp-bot/base-baileys-json/.wwebjs_auth/session-bot_sessions/Default/Session Storage/000003.log 
+2023/06/18-19:16:52.003 2494 Creating DB C:\Users\Usuario\Desktop\proyectos-personales\dr-simons-wpp-bot\base-baileys-json\.wwebjs_auth\session-bot_sessions\Default\Session Storage since it was missing.
+2023/06/18-19:16:52.302 2494 Reusing MANIFEST C:\Users\Usuario\Desktop\proyectos-personales\dr-simons-wpp-bot\base-baileys-json\.wwebjs_auth\session-bot_sessions\Default\Session Storage/MANIFEST-000001

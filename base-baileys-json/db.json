@@ -1,205 +1,611 @@
 [
   {
     "role": "assistant",
-    "id": "chatcmpl-7QkUR2Baj9hob126j7AnUxjS1NNtR",
-    "parentMessageId": "314bee3c-b69d-4580-94e6-c0f1973752a2",
-    "text": "¡Hola! La consulta en línea con el Dr. Simons tiene un costo de $39 USD y puede pagarse a través de nuestro método de pago principal, Hotmart, que acepta todo tipo de pagos en más de 200 países. Si estás interesado en recibir una evaluación personalizada para la rinoplastia, necesitas programar una Consulta En Línea con el Dr. Simons. Durante la consulta, el Dr. Simons evaluará tu caso y proporcionará un diagnóstico y presupuesto personalizados. Si tienes alguna otra pregunta, por favor házmelo saber. 😊",
+    "id": "chatcmpl-7SwNbTWCnPfxH03qXLCTUv1HuN3M0",
+    "parentMessageId": "8f6abedc-7fb1-43db-a0c8-ffe6cdee734b",
+    "text": "¡Hola! ¿En qué puedo ayudarte hoy en relación a las consultas en línea con el Dr. Simons? Recuerda que estoy aquí para responder tus preguntas de manera clara y concisa. 😊",
     "detail": {
-      "id": "chatcmpl-7QkUR2Baj9hob126j7AnUxjS1NNtR",
+      "id": "chatcmpl-7SwNbTWCnPfxH03qXLCTUv1HuN3M0",
       "object": "chat.completion",
-      "created": 1686609591,
+      "created": 1687131951,
       "model": "gpt-3.5-turbo-0301",
       "usage": {
-        "prompt_tokens": 1157,
-        "completion_tokens": 130,
-        "total_tokens": 1287
+        "prompt_tokens": 1265,
+        "completion_tokens": 46,
+        "total_tokens": 1311
       },
       "choices": [
         {
           "message": {
             "role": "assistant",
-            "content": "¡Hola! La consulta en línea con el Dr. Simons tiene un costo de $39 USD y puede pagarse a través de nuestro método de pago principal, Hotmart, que acepta todo tipo de pagos en más de 200 países. Si estás interesado en recibir una evaluación personalizada para la rinoplastia, necesitas programar una Consulta En Línea con el Dr. Simons. Durante la consulta, el Dr. Simons evaluará tu caso y proporcionará un diagnóstico y presupuesto personalizados. Si tienes alguna otra pregunta, por favor házmelo saber. 😊"
+            "content": "¡Hola! ¿En qué puedo ayudarte hoy en relación a las consultas en línea con el Dr. Simons? Recuerda que estoy aquí para responder tus preguntas de manera clara y concisa. 😊"
           },
           "finish_reason": "stop",
           "index": 0
         }
       ]
     },
-    "answer": "¡Hola! La consulta en línea con el Dr. Simons tiene un costo de $39 USD y puede pagarse a través de nuestro método de pago principal, Hotmart, que acepta todo tipo de pagos en más de 200 países. Si estás interesado en recibir una evaluación personalizada para la rinoplastia, necesitas programar una Consulta En Línea con el Dr. Simons. Durante la consulta, el Dr. Simons evaluará tu caso y proporcionará un diagnóstico y presupuesto personalizados. Si tienes alguna otra pregunta, por favor házmelo saber. 😊",
-    "from": "59167694685"
+    "answer": "¡Hola! ¿En qué puedo ayudarte hoy en relación a las consultas en línea con el Dr. Simons? Recuerda que estoy aquí para responder tus preguntas de manera clara y concisa. 😊",
+    "from": "59167694685@c.us"
   },
   {
     "role": "assistant",
-    "id": "chatcmpl-7QkV6Eh03qbeZxNmkYsLQqjBrzXrg",
-    "parentMessageId": "9029ab70-d7b4-4fef-ac4e-31f22343b4f6",
-    "text": "¡Hola! Puedes registrarte para la consulta en línea con el Dr. Simons a través del siguiente enlace: [https://drsimonscristian.com]. Actualmente, solo ofrecemos consultas en línea y no tenemos consultas presenciales. Si tienes alguna otra pregunta o necesitas ayuda para programar tu consulta en línea, por favor házmelo saber. 😊",
+    "id": "chatcmpl-7SwOOakZfL37zeNlgfSaoWi4G6aKo",
+    "parentMessageId": "f09afc04-d414-4c93-a7b2-6e8f7cd98050",
+    "text": "El costo de una rinoplastia no se puede determinar sin antes realizar una Consulta en Línea con el Dr. Simons, ya que cada caso es único y requiere un diagnóstico personalizado. El costo de la Consulta en Línea es de $39 USD. Para registrarte para una consulta en línea, puedes acceder al enlace de inscripción en [https://drsimonscristian.com]. Si tienes alguna dificultad con el proceso de pago, por favor házmelo saber y estaré encantado de ayudarte. 😊",
     "detail": {
-      "id": "chatcmpl-7QkV6Eh03qbeZxNmkYsLQqjBrzXrg",
+      "id": "chatcmpl-7SwOOakZfL37zeNlgfSaoWi4G6aKo",
       "object": "chat.completion",
-      "created": 1686609632,
+      "created": 1687132000,
       "model": "gpt-3.5-turbo-0301",
       "usage": {
-        "prompt_tokens": 2334,
-        "completion_tokens": 82,
-        "total_tokens": 2416
+        "prompt_tokens": 2492,
+        "completion_tokens": 122,
+        "total_tokens": 2614
       },
       "choices": [
         {
           "message": {
             "role": "assistant",
-            "content": "¡Hola! Puedes registrarte para la consulta en línea con el Dr. Simons a través del siguiente enlace: [https://drsimonscristian.com]. Actualmente, solo ofrecemos consultas en línea y no tenemos consultas presenciales. Si tienes alguna otra pregunta o necesitas ayuda para programar tu consulta en línea, por favor házmelo saber. 😊"
+            "content": "El costo de una rinoplastia no se puede determinar sin antes realizar una Consulta en Línea con el Dr. Simons, ya que cada caso es único y requiere un diagnóstico personalizado. El costo de la Consulta en Línea es de $39 USD. Para registrarte para una consulta en línea, puedes acceder al enlace de inscripción en [https://drsimonscristian.com]. Si tienes alguna dificultad con el proceso de pago, por favor házmelo saber y estaré encantado de ayudarte. 😊"
           },
           "finish_reason": "stop",
           "index": 0
         }
       ]
     },
-    "answer": "¡Hola! Puedes registrarte para la consulta en línea con el Dr. Simons a través del siguiente enlace: [https://drsimonscristian.com]. Actualmente, solo ofrecemos consultas en línea y no tenemos consultas presenciales. Si tienes alguna otra pregunta o necesitas ayuda para programar tu consulta en línea, por favor házmelo saber. 😊",
-    "from": "59167694685"
+    "answer": "El costo de una rinoplastia no se puede determinar sin antes realizar una Consulta en Línea con el Dr. Simons, ya que cada caso es único y requiere un diagnóstico personalizado. El costo de la Consulta en Línea es de $39 USD. Para registrarte para una consulta en línea, puedes acceder al enlace de inscripción en [https://drsimonscristian.com]. Si tienes alguna dificultad con el proceso de pago, por favor házmelo saber y estaré encantado de ayudarte. 😊",
+    "from": "59167694685@c.us"
   },
   {
     "role": "assistant",
-    "id": "chatcmpl-7QkXM6kn2ywqRtqYLBY9D1Tk1Tuuo",
-    "parentMessageId": "13e8b6ec-1b0f-4291-af78-4ee1a23bbd63",
-    "text": "Lo siento, pero como asistente AI al servicio del Dr. Cristian Simons, mi función es proporcionar información precisa y útil relacionada con las consultas médicas en línea. No puedo interactuar o responder a comentarios inapropiados o fuera de contexto. Si tienes alguna pregunta o inquietud médica, por favor házmelo saber y estaré encantado de ayudarte.",
+    "id": "chatcmpl-7SwP1u2HWpwB6st71p3lZyFPKFhi3",
+    "parentMessageId": "5589240d-e2b8-4667-ba54-8ba0b95c6abd",
+    "text": "La respuesta a 2 + 2 es 4. ¿Puedo ayudarte con alguna pregunta relacionada con las consultas en línea con el Dr. Simons? 😊",
     "detail": {
-      "id": "chatcmpl-7QkXM6kn2ywqRtqYLBY9D1Tk1Tuuo",
+      "id": "chatcmpl-7SwP1u2HWpwB6st71p3lZyFPKFhi3",
       "object": "chat.completion",
-      "created": 1686609772,
+      "created": 1687132039,
       "model": "gpt-3.5-turbo-0301",
       "usage": {
-        "prompt_tokens": 2442,
-        "completion_tokens": 86,
-        "total_tokens": 2528
+        "prompt_tokens": 2633,
+        "completion_tokens": 38,
+        "total_tokens": 2671
       },
       "choices": [
         {
           "message": {
             "role": "assistant",
-            "content": "Lo siento, pero como asistente AI al servicio del Dr. Cristian Simons, mi función es proporcionar información precisa y útil relacionada con las consultas médicas en línea. No puedo interactuar o responder a comentarios inapropiados o fuera de contexto. Si tienes alguna pregunta o inquietud médica, por favor házmelo saber y estaré encantado de ayudarte."
+            "content": "La respuesta a 2 + 2 es 4. ¿Puedo ayudarte con alguna pregunta relacionada con las consultas en línea con el Dr. Simons? 😊"
           },
           "finish_reason": "stop",
           "index": 0
         }
       ]
     },
-    "answer": "Lo siento, pero como asistente AI al servicio del Dr. Cristian Simons, mi función es proporcionar información precisa y útil relacionada con las consultas médicas en línea. No puedo interactuar o responder a comentarios inapropiados o fuera de contexto. Si tienes alguna pregunta o inquietud médica, por favor házmelo saber y estaré encantado de ayudarte.",
-    "from": "59175141154"
+    "answer": "La respuesta a 2 + 2 es 4. ¿Puedo ayudarte con alguna pregunta relacionada con las consultas en línea con el Dr. Simons? 😊",
+    "from": "59167694685@c.us"
   },
   {
     "role": "assistant",
-    "id": "chatcmpl-7QkXdGGKZOa4bfLbjxzC7mdDAXUge",
-    "parentMessageId": "652ccf31-9ee1-4cbe-ab63-16d6c5803374",
-    "text": "Lo siento, pero no estoy seguro de a qué se refiere su mensaje con \"9:30\". ¿Tiene alguna consulta médica o pregunta en la que pueda ayudarlo? Estoy aquí para brindarle información precisa y útil relacionada con las consultas médicas en línea.",
+    "id": "chatcmpl-7SwpYxu0nBPteyzNVySGrMGPoNfLT",
+    "parentMessageId": "129ce743-f319-4066-a646-ba19965d746a",
+    "text": "¡Hola! Me alegra saber que estás interesado en una consulta en línea con el Dr. Simons. Para registrarte, puedes acceder al enlace de inscripción en [https://drsimonscristian.com]. Recuerda que el costo de la consulta en línea es de $39 USD y puedes pagar utilizando nuestro método de pago principal, Hotmart, que acepta todo tipo de pagos en más de 200 países o mediante transferencia bancaria o código QR a través del enlace [https://payqr.drsimonscristian.com/]. Si tienes alguna dificultad con el proceso de pago o cualquier otra pregunta, por favor házmelo saber. Estoy aquí para ayudarte en todo lo que necesites. 😊",
     "detail": {
-      "id": "chatcmpl-7QkXdGGKZOa4bfLbjxzC7mdDAXUge",
+      "id": "chatcmpl-7SwpYxu0nBPteyzNVySGrMGPoNfLT",
       "object": "chat.completion",
-      "created": 1686609789,
+      "created": 1687133684,
       "model": "gpt-3.5-turbo-0301",
       "usage": {
-        "prompt_tokens": 2541,
-        "completion_tokens": 62,
-        "total_tokens": 2603
+        "prompt_tokens": 2690,
+        "completion_tokens": 160,
+        "total_tokens": 2850
       },
       "choices": [
         {
           "message": {
             "role": "assistant",
-            "content": "Lo siento, pero no estoy seguro de a qué se refiere su mensaje con \"9:30\". ¿Tiene alguna consulta médica o pregunta en la que pueda ayudarlo? Estoy aquí para brindarle información precisa y útil relacionada con las consultas médicas en línea."
+            "content": "¡Hola! Me alegra saber que estás interesado en una consulta en línea con el Dr. Simons. Para registrarte, puedes acceder al enlace de inscripción en [https://drsimonscristian.com]. Recuerda que el costo de la consulta en línea es de $39 USD y puedes pagar utilizando nuestro método de pago principal, Hotmart, que acepta todo tipo de pagos en más de 200 países o mediante transferencia bancaria o código QR a través del enlace [https://payqr.drsimonscristian.com/]. Si tienes alguna dificultad con el proceso de pago o cualquier otra pregunta, por favor házmelo saber. Estoy aquí para ayudarte en todo lo que necesites. 😊"
           },
           "finish_reason": "stop",
           "index": 0
         }
       ]
     },
-    "answer": "Lo siento, pero no estoy seguro de a qué se refiere su mensaje con \"9:30\". ¿Tiene alguna consulta médica o pregunta en la que pueda ayudarlo? Estoy aquí para brindarle información precisa y útil relacionada con las consultas médicas en línea.",
-    "from": "59175141154"
+    "answer": "¡Hola! Me alegra saber que estás interesado en una consulta en línea con el Dr. Simons. Para registrarte, puedes acceder al enlace de inscripción en [https://drsimonscristian.com]. Recuerda que el costo de la consulta en línea es de $39 USD y puedes pagar utilizando nuestro método de pago principal, Hotmart, que acepta todo tipo de pagos en más de 200 países o mediante transferencia bancaria o código QR a través del enlace [https://payqr.drsimonscristian.com/]. Si tienes alguna dificultad con el proceso de pago o cualquier otra pregunta, por favor házmelo saber. Estoy aquí para ayudarte en todo lo que necesites. 😊",
+    "from": "59175119045@c.us"
   },
   {
     "role": "assistant",
-    "id": "chatcmpl-7QkYDqGEMF8imF1dqAU10gBv4HFr8",
-    "parentMessageId": "a0fd00b4-9496-406e-a599-7bad8e8db872",
-    "text": "Lo siento, pero como asistente AI al servicio del Dr. Cristian Simons, mi función es proporcionar información precisa y útil relacionada con las consultas médicas en línea. No tengo conocimiento sobre la ubicación de un maletín ni puedo responder preguntas que no estén relacionadas con las consultas médicas en línea o los procedimientos médicos. Si tiene alguna otra pregunta o inquietud médica, por favor házmelo saber y estaré encantado de ayudarte.",
+    "id": "chatcmpl-7SwqlXvXw1ALB4xCGaQjXM9XD8UyO",
+    "parentMessageId": "f1dc8c3f-c31c-4595-a157-41dfa86cfecd",
+    "text": "La recuperación de una rinoplastia puede variar dependiendo del individuo y la complejidad del procedimiento. En general, se recomienda tomar al menos una semana libre del trabajo o escuela después de la cirugía y evitar actividades físicas intensas durante las primeras semanas. El tiempo total de recuperación puede ser de varias semanas a algunos meses. Es importante seguir cuidadosamente las instrucciones postoperatorias del Dr. Simons para asegurar una recuperación exitosa. Si tienes alguna otra pregunta, no dudes en preguntar. 😊",
     "detail": {
-      "id": "chatcmpl-7QkYDqGEMF8imF1dqAU10gBv4HFr8",
+      "id": "chatcmpl-7SwqlXvXw1ALB4xCGaQjXM9XD8UyO",
       "object": "chat.completion",
-      "created": 1686609825,
+      "created": 1687133759,
       "model": "gpt-3.5-turbo-0301",
       "usage": {
-        "prompt_tokens": 2638,
-        "completion_tokens": 108,
-        "total_tokens": 2746
+        "prompt_tokens": 2875,
+        "completion_tokens": 118,
+        "total_tokens": 2993
       },
       "choices": [
         {
           "message": {
             "role": "assistant",
-            "content": "Lo siento, pero como asistente AI al servicio del Dr. Cristian Simons, mi función es proporcionar información precisa y útil relacionada con las consultas médicas en línea. No tengo conocimiento sobre la ubicación de un maletín ni puedo responder preguntas que no estén relacionadas con las consultas médicas en línea o los procedimientos médicos. Si tiene alguna otra pregunta o inquietud médica, por favor házmelo saber y estaré encantado de ayudarte."
+            "content": "La recuperación de una rinoplastia puede variar dependiendo del individuo y la complejidad del procedimiento. En general, se recomienda tomar al menos una semana libre del trabajo o escuela después de la cirugía y evitar actividades físicas intensas durante las primeras semanas. El tiempo total de recuperación puede ser de varias semanas a algunos meses. Es importante seguir cuidadosamente las instrucciones postoperatorias del Dr. Simons para asegurar una recuperación exitosa. Si tienes alguna otra pregunta, no dudes en preguntar. 😊"
           },
           "finish_reason": "stop",
           "index": 0
         }
       ]
     },
-    "answer": "Lo siento, pero como asistente AI al servicio del Dr. Cristian Simons, mi función es proporcionar información precisa y útil relacionada con las consultas médicas en línea. No tengo conocimiento sobre la ubicación de un maletín ni puedo responder preguntas que no estén relacionadas con las consultas médicas en línea o los procedimientos médicos. Si tiene alguna otra pregunta o inquietud médica, por favor házmelo saber y estaré encantado de ayudarte.",
-    "from": "59175141154"
+    "answer": "La recuperación de una rinoplastia puede variar dependiendo del individuo y la complejidad del procedimiento. En general, se recomienda tomar al menos una semana libre del trabajo o escuela después de la cirugía y evitar actividades físicas intensas durante las primeras semanas. El tiempo total de recuperación puede ser de varias semanas a algunos meses. Es importante seguir cuidadosamente las instrucciones postoperatorias del Dr. Simons para asegurar una recuperación exitosa. Si tienes alguna otra pregunta, no dudes en preguntar. 😊",
+    "from": "59175119045@c.us"
   },
   {
     "role": "assistant",
-    "id": "chatcmpl-7QkZCpl3vSRVttnREIfC9Pryt4neg",
-    "parentMessageId": "abb0544f-e45f-45f1-be78-4d53aa48018a",
-    "text": "Lo siento, pero no tengo información sobre ningún maletín ni puedo ayudar con preguntas que no estén relacionadas con las consultas médicas en línea o los procedimientos médicos. Mi función es proporcionar información precisa y útil para ayudar a los pacientes con inquietudes médicas reales. Si tienes alguna otra pregunta médica, por favor házmelo saber y estaré encantado de ayudarte.",
+    "id": "chatcmpl-7SwsLnGz0POYIJtdm58u6ERRc8Mvc",
+    "parentMessageId": "bb69ee32-69a0-49f7-b01c-3f49eb1cd39c",
+    "text": "Lamento informarte que no entiendo el contexto o significado de tu mensaje. Como modelo de lenguaje, mi función es ayudarte a responder preguntas en relación a las consultas en línea con el Dr. Simons. Por favor, házmelo saber si puedo ayudarte con alguna pregunta relacionada con este tema. 😊",
     "detail": {
-      "id": "chatcmpl-7QkZCpl3vSRVttnREIfC9Pryt4neg",
+      "id": "chatcmpl-7SwsLnGz0POYIJtdm58u6ERRc8Mvc",
       "object": "chat.completion",
-      "created": 1686609886,
+      "created": 1687133857,
       "model": "gpt-3.5-turbo-0301",
       "usage": {
-        "prompt_tokens": 2787,
-        "completion_tokens": 90,
-        "total_tokens": 2877
+        "prompt_tokens": 1825,
+        "completion_tokens": 70,
+        "total_tokens": 1895
       },
       "choices": [
         {
           "message": {
             "role": "assistant",
-            "content": "Lo siento, pero no tengo información sobre ningún maletín ni puedo ayudar con preguntas que no estén relacionadas con las consultas médicas en línea o los procedimientos médicos. Mi función es proporcionar información precisa y útil para ayudar a los pacientes con inquietudes médicas reales. Si tienes alguna otra pregunta médica, por favor házmelo saber y estaré encantado de ayudarte."
+            "content": "Lamento informarte que no entiendo el contexto o significado de tu mensaje. Como modelo de lenguaje, mi función es ayudarte a responder preguntas en relación a las consultas en línea con el Dr. Simons. Por favor, házmelo saber si puedo ayudarte con alguna pregunta relacionada con este tema. 😊"
           },
           "finish_reason": "stop",
           "index": 0
         }
       ]
     },
-    "answer": "Lo siento, pero no tengo información sobre ningún maletín ni puedo ayudar con preguntas que no estén relacionadas con las consultas médicas en línea o los procedimientos médicos. Mi función es proporcionar información precisa y útil para ayudar a los pacientes con inquietudes médicas reales. Si tienes alguna otra pregunta médica, por favor házmelo saber y estaré encantado de ayudarte.",
-    "from": "59175141154"
+    "answer": "Lamento informarte que no entiendo el contexto o significado de tu mensaje. Como modelo de lenguaje, mi función es ayudarte a responder preguntas en relación a las consultas en línea con el Dr. Simons. Por favor, házmelo saber si puedo ayudarte con alguna pregunta relacionada con este tema. 😊",
+    "from": "59175141154@c.us"
   },
   {
     "role": "assistant",
-    "id": "chatcmpl-7QkaLPcE8YFyqkLQacX9QwiDbn1xK",
-    "parentMessageId": "3f0c4973-0526-49bf-8ea9-ebf47c595dd8",
-    "text": "Lo siento, pero no estoy seguro de entender a qué se refiere con \"Kiki\". Si tiene alguna consulta médica o pregunta en la que pueda ayudarlo, por favor házmelo saber y estaré encantado de ayudarlo. Mi función es proporcionar información precisa y útil relacionada con las consultas médicas en línea y los procedimientos médicos.",
+    "id": "chatcmpl-7Sx40qM07XFjEEfRBXYJJftZV2mbu",
+    "parentMessageId": "809170d5-273e-450b-bdf1-05b7ae8dc866",
+    "text": "Lo siento, pero aún no entiendo el contexto o significado de tu mensaje. Si hay algo en lo que pueda ayudarte relacionado con las consultas en línea con el Dr. Simons, por favor házmelo saber. Estoy aquí para responder tus preguntas y brindar asistencia en lo que necesites. 😊",
     "detail": {
-      "id": "chatcmpl-7QkaLPcE8YFyqkLQacX9QwiDbn1xK",
+      "id": "chatcmpl-7Sx40qM07XFjEEfRBXYJJftZV2mbu",
       "object": "chat.completion",
-      "created": 1686609957,
+      "created": 1687134580,
       "model": "gpt-3.5-turbo-0301",
       "usage": {
-        "prompt_tokens": 2896,
-        "completion_tokens": 78,
-        "total_tokens": 2974
+        "prompt_tokens": 1910,
+        "completion_tokens": 71,
+        "total_tokens": 1981
       },
       "choices": [
         {
           "message": {
             "role": "assistant",
-            "content": "Lo siento, pero no estoy seguro de entender a qué se refiere con \"Kiki\". Si tiene alguna consulta médica o pregunta en la que pueda ayudarlo, por favor házmelo saber y estaré encantado de ayudarlo. Mi función es proporcionar información precisa y útil relacionada con las consultas médicas en línea y los procedimientos médicos."
+            "content": "Lo siento, pero aún no entiendo el contexto o significado de tu mensaje. Si hay algo en lo que pueda ayudarte relacionado con las consultas en línea con el Dr. Simons, por favor házmelo saber. Estoy aquí para responder tus preguntas y brindar asistencia en lo que necesites. 😊"
           },
           "finish_reason": "stop",
           "index": 0
         }
       ]
     },
-    "answer": "Lo siento, pero no estoy seguro de entender a qué se refiere con \"Kiki\". Si tiene alguna consulta médica o pregunta en la que pueda ayudarlo, por favor házmelo saber y estaré encantado de ayudarlo. Mi función es proporcionar información precisa y útil relacionada con las consultas médicas en línea y los procedimientos médicos.",
-    "from": "59175141154"
+    "answer": "Lo siento, pero aún no entiendo el contexto o significado de tu mensaje. Si hay algo en lo que pueda ayudarte relacionado con las consultas en línea con el Dr. Simons, por favor házmelo saber. Estoy aquí para responder tus preguntas y brindar asistencia en lo que necesites. 😊",
+    "from": "59175141154@c.us"
+  },
+  {
+    "role": "assistant",
+    "id": "chatcmpl-7SxGtGQeU0UdwyBIdkqO8nsdPofmE",
+    "parentMessageId": "41a2c1fa-1acb-496a-b076-e433a06ff74d",
+    "text": "Lo siento, pero no puedo entender el significado o contexto de tu mensaje. Si tienes alguna pregunta relacionada con las consultas en línea con el Dr. Simons, por favor házmelo saber, estaré encantado de ayudarte. 😊",
+    "detail": {
+      "id": "chatcmpl-7SxGtGQeU0UdwyBIdkqO8nsdPofmE",
+      "object": "chat.completion",
+      "created": 1687135379,
+      "model": "gpt-3.5-turbo-0301",
+      "usage": {
+        "prompt_tokens": 2000,
+        "completion_tokens": 54,
+        "total_tokens": 2054
+      },
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "Lo siento, pero no puedo entender el significado o contexto de tu mensaje. Si tienes alguna pregunta relacionada con las consultas en línea con el Dr. Simons, por favor házmelo saber, estaré encantado de ayudarte. 😊"
+          },
+          "finish_reason": "stop",
+          "index": 0
+        }
+      ]
+    },
+    "answer": "Lo siento, pero no puedo entender el significado o contexto de tu mensaje. Si tienes alguna pregunta relacionada con las consultas en línea con el Dr. Simons, por favor házmelo saber, estaré encantado de ayudarte. 😊",
+    "from": "59175141154@c.us"
+  },
+  {
+    "role": "assistant",
+    "id": "chatcmpl-7SxflEeaoFoEDB0gkZH5ZAi7BEurV",
+    "parentMessageId": "9d79c8d3-ae57-4fb9-9cd1-6fb38673504a",
+    "text": "Lo siento, pero no puedo entender el significado o contexto de tu mensaje. Si tienes alguna pregunta relacionada con las consultas en línea con el Dr. Simons, por favor házmelo saber y estaré encantado de ayudarte. 😊",
+    "detail": {
+      "id": "chatcmpl-7SxflEeaoFoEDB0gkZH5ZAi7BEurV",
+      "object": "chat.completion",
+      "created": 1687136921,
+      "model": "gpt-3.5-turbo-0301",
+      "usage": {
+        "prompt_tokens": 2071,
+        "completion_tokens": 54,
+        "total_tokens": 2125
+      },
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "Lo siento, pero no puedo entender el significado o contexto de tu mensaje. Si tienes alguna pregunta relacionada con las consultas en línea con el Dr. Simons, por favor házmelo saber y estaré encantado de ayudarte. 😊"
+          },
+          "finish_reason": "stop",
+          "index": 0
+        }
+      ]
+    },
+    "answer": "Lo siento, pero no puedo entender el significado o contexto de tu mensaje. Si tienes alguna pregunta relacionada con las consultas en línea con el Dr. Simons, por favor házmelo saber y estaré encantado de ayudarte. 😊",
+    "from": "59175141154@c.us"
+  },
+  {
+    "role": "assistant",
+    "id": "chatcmpl-7Sxg9ZZTBhrlCfmO6Jd3SxipyA8Pz",
+    "parentMessageId": "c7d81913-3880-476b-a6a2-8b5fecf2574e",
+    "text": "Lamento que te sientas apurado o frustrado, pero necesito comprender el contexto de tu mensaje para poder ayudarte adecuadamente. Si tienes alguna pregunta sobre las consultas en línea con el Dr. Simons, por favor no dudes en preguntar y trataré de responder lo más rápido posible. 😊",
+    "detail": {
+      "id": "chatcmpl-7Sxg9ZZTBhrlCfmO6Jd3SxipyA8Pz",
+      "object": "chat.completion",
+      "created": 1687136945,
+      "model": "gpt-3.5-turbo-0301",
+      "usage": {
+        "prompt_tokens": 2140,
+        "completion_tokens": 70,
+        "total_tokens": 2210
+      },
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "Lamento que te sientas apurado o frustrado, pero necesito comprender el contexto de tu mensaje para poder ayudarte adecuadamente. Si tienes alguna pregunta sobre las consultas en línea con el Dr. Simons, por favor no dudes en preguntar y trataré de responder lo más rápido posible. 😊"
+          },
+          "finish_reason": "stop",
+          "index": 0
+        }
+      ]
+    },
+    "answer": "Lamento que te sientas apurado o frustrado, pero necesito comprender el contexto de tu mensaje para poder ayudarte adecuadamente. Si tienes alguna pregunta sobre las consultas en línea con el Dr. Simons, por favor no dudes en preguntar y trataré de responder lo más rápido posible. 😊",
+    "from": "59175141154@c.us"
+  },
+  {
+    "role": "assistant",
+    "id": "chatcmpl-7Sxj4TlBpeyolTL1Gwiv156NuuCZt",
+    "parentMessageId": "01ad507b-697f-4867-8aa1-5237cdc6af74",
+    "text": "Lo siento, pero aún no entiendo el contexto de tu mensaje. Si tienes una pregunta relacionada con las consultas en línea con el Dr. Simons, por favor házmelo saber y estaré encantado de ayudarte en lo que necesites. 😊",
+    "detail": {
+      "id": "chatcmpl-7Sxj4TlBpeyolTL1Gwiv156NuuCZt",
+      "object": "chat.completion",
+      "created": 1687137126,
+      "model": "gpt-3.5-turbo-0301",
+      "usage": {
+        "prompt_tokens": 2225,
+        "completion_tokens": 57,
+        "total_tokens": 2282
+      },
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "Lo siento, pero aún no entiendo el contexto de tu mensaje. Si tienes una pregunta relacionada con las consultas en línea con el Dr. Simons, por favor házmelo saber y estaré encantado de ayudarte en lo que necesites. 😊"
+          },
+          "finish_reason": "stop",
+          "index": 0
+        }
+      ]
+    },
+    "answer": "Lo siento, pero aún no entiendo el contexto de tu mensaje. Si tienes una pregunta relacionada con las consultas en línea con el Dr. Simons, por favor házmelo saber y estaré encantado de ayudarte en lo que necesites. 😊",
+    "from": "59175141154@c.us"
+  },
+  {
+    "role": "assistant",
+    "id": "chatcmpl-7SzuWMyJXXnvVlR5Zp0qkpdczfJYl",
+    "parentMessageId": "ae5636d0-bbd4-4e27-9fe7-95e89a448d3e",
+    "text": "¡Hola! Estoy bien, gracias por preguntar. ¿En qué puedo ayudarte hoy en relación a las consultas en línea con el Dr. Simons? Estoy aquí para responder tus preguntas y brindar asistencia en lo que necesites. 😊",
+    "detail": {
+      "id": "chatcmpl-7SzuWMyJXXnvVlR5Zp0qkpdczfJYl",
+      "object": "chat.completion",
+      "created": 1687145524,
+      "model": "gpt-3.5-turbo-0301",
+      "usage": {
+        "prompt_tokens": 2295,
+        "completion_tokens": 57,
+        "total_tokens": 2352
+      },
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "¡Hola! Estoy bien, gracias por preguntar. ¿En qué puedo ayudarte hoy en relación a las consultas en línea con el Dr. Simons? Estoy aquí para responder tus preguntas y brindar asistencia en lo que necesites. 😊"
+          },
+          "finish_reason": "stop",
+          "index": 0
+        }
+      ]
+    },
+    "answer": "¡Hola! Estoy bien, gracias por preguntar. ¿En qué puedo ayudarte hoy en relación a las consultas en línea con el Dr. Simons? Estoy aquí para responder tus preguntas y brindar asistencia en lo que necesites. 😊",
+    "from": "59177176680@c.us"
+  },
+  {
+    "role": "assistant",
+    "id": "chatcmpl-7Szuycll34pGUCYrPVF3ZW5xqlTEv",
+    "parentMessageId": "8fce52c1-418e-4387-87ba-155be7562442",
+    "text": "No hay problema, ¡estoy aquí para ayudarte en lo que necesites! Si tienes alguna pregunta relacionada con las consultas en línea con el Dr. Simons, por favor házmelo saber y trataré de responder lo mejor posible. 😊",
+    "detail": {
+      "id": "chatcmpl-7Szuycll34pGUCYrPVF3ZW5xqlTEv",
+      "object": "chat.completion",
+      "created": 1687145552,
+      "model": "gpt-3.5-turbo-0301",
+      "usage": {
+        "prompt_tokens": 2367,
+        "completion_tokens": 54,
+        "total_tokens": 2421
+      },
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "No hay problema, ¡estoy aquí para ayudarte en lo que necesites! Si tienes alguna pregunta relacionada con las consultas en línea con el Dr. Simons, por favor házmelo saber y trataré de responder lo mejor posible. 😊"
+          },
+          "finish_reason": "stop",
+          "index": 0
+        }
+      ]
+    },
+    "answer": "No hay problema, ¡estoy aquí para ayudarte en lo que necesites! Si tienes alguna pregunta relacionada con las consultas en línea con el Dr. Simons, por favor házmelo saber y trataré de responder lo mejor posible. 😊",
+    "from": "59177176680@c.us"
+  },
+  {
+    "role": "assistant",
+    "id": "chatcmpl-7SzvXHJFyIdashFx2IYIwdukXgu0A",
+    "parentMessageId": "3e92310c-17f8-474b-b2bb-c5e7c493a6cd",
+    "text": "Soy un modelo de lenguaje entrenado por OpenAI, diseñado para ayudar a responder preguntas y brindar asistencia en diversos temas, incluyendo preguntas relacionadas con las consultas en línea con el Dr. Simons. Si tienes alguna pregunta sobre las consultas en línea con el Dr. Simons, no dudes en preguntarme y trataré de ayudarte de la mejor manera posible. Es importante tener en cuenta que mi función es proporcionar información basada en mi conocimiento y capacitación, pero siempre es mejor confirmar la información con el Dr. Simons durante una consulta en línea. 😊",
+    "detail": {
+      "id": "chatcmpl-7SzvXHJFyIdashFx2IYIwdukXgu0A",
+      "object": "chat.completion",
+      "created": 1687145587,
+      "model": "gpt-3.5-turbo-0301",
+      "usage": {
+        "prompt_tokens": 2446,
+        "completion_tokens": 133,
+        "total_tokens": 2579
+      },
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "Soy un modelo de lenguaje entrenado por OpenAI, diseñado para ayudar a responder preguntas y brindar asistencia en diversos temas, incluyendo preguntas relacionadas con las consultas en línea con el Dr. Simons. Si tienes alguna pregunta sobre las consultas en línea con el Dr. Simons, no dudes en preguntarme y trataré de ayudarte de la mejor manera posible. Es importante tener en cuenta que mi función es proporcionar información basada en mi conocimiento y capacitación, pero siempre es mejor confirmar la información con el Dr. Simons durante una consulta en línea. 😊"
+          },
+          "finish_reason": "stop",
+          "index": 0
+        }
+      ]
+    },
+    "answer": "Soy un modelo de lenguaje entrenado por OpenAI, diseñado para ayudar a responder preguntas y brindar asistencia en diversos temas, incluyendo preguntas relacionadas con las consultas en línea con el Dr. Simons. Si tienes alguna pregunta sobre las consultas en línea con el Dr. Simons, no dudes en preguntarme y trataré de ayudarte de la mejor manera posible. Es importante tener en cuenta que mi función es proporcionar información basada en mi conocimiento y capacitación, pero siempre es mejor confirmar la información con el Dr. Simons durante una consulta en línea. 😊",
+    "from": "59177176680@c.us"
+  },
+  {
+    "role": "assistant",
+    "id": "chatcmpl-7T0PD4PcfZBV6QCy4RDmaLKVF5Z9e",
+    "parentMessageId": "560fe886-38b4-4b39-b5e8-4c98eaae8f18",
+    "text": "Lamento no entender el contexto o significado de tu mensaje. Si tienes una pregunta relacionada con las consultas en línea con el Dr. Simons, por favor házmelo saber y estaré encantado de ayudarte. 😊",
+    "detail": {
+      "id": "chatcmpl-7T0PD4PcfZBV6QCy4RDmaLKVF5Z9e",
+      "object": "chat.completion",
+      "created": 1687147427,
+      "model": "gpt-3.5-turbo-0301",
+      "usage": {
+        "prompt_tokens": 2591,
+        "completion_tokens": 50,
+        "total_tokens": 2641
+      },
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "Lamento no entender el contexto o significado de tu mensaje. Si tienes una pregunta relacionada con las consultas en línea con el Dr. Simons, por favor házmelo saber y estaré encantado de ayudarte. 😊"
+          },
+          "finish_reason": "stop",
+          "index": 0
+        }
+      ]
+    },
+    "answer": "Lamento no entender el contexto o significado de tu mensaje. Si tienes una pregunta relacionada con las consultas en línea con el Dr. Simons, por favor házmelo saber y estaré encantado de ayudarte. 😊",
+    "from": "59168686427@c.us"
+  },
+  {
+    "role": "assistant",
+    "id": "chatcmpl-7T0Q6mumvVL3nXX5c33Kc9U1ugGXT",
+    "parentMessageId": "d932cc04-451b-4e36-9a30-cf00cc3130fa",
+    "text": "Lo siento, pero no entiendo el contexto o significado de tu mensaje. Si tienes una pregunta relacionada con las consultas en línea con el Dr. Simons, por favor házmelo saber y estaré encantado de ayudarte. 😊",
+    "detail": {
+      "id": "chatcmpl-7T0Q6mumvVL3nXX5c33Kc9U1ugGXT",
+      "object": "chat.completion",
+      "created": 1687147482,
+      "model": "gpt-3.5-turbo-0301",
+      "usage": {
+        "prompt_tokens": 2655,
+        "completion_tokens": 54,
+        "total_tokens": 2709
+      },
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "Lo siento, pero no entiendo el contexto o significado de tu mensaje. Si tienes una pregunta relacionada con las consultas en línea con el Dr. Simons, por favor házmelo saber y estaré encantado de ayudarte. 😊"
+          },
+          "finish_reason": "stop",
+          "index": 0
+        }
+      ]
+    },
+    "answer": "Lo siento, pero no entiendo el contexto o significado de tu mensaje. Si tienes una pregunta relacionada con las consultas en línea con el Dr. Simons, por favor házmelo saber y estaré encantado de ayudarte. 😊",
+    "from": "59168686427@c.us"
+  },
+  {
+    "role": "assistant",
+    "id": "chatcmpl-7T0Qiop9CWfrhghLpNRI4VmCKkxQU",
+    "parentMessageId": "248dc4cc-cad0-4b22-bd19-19b8376f33e0",
+    "text": "Lamento informarte que no entiendo el significado o contexto de tu mensaje. Te recuerdo que estoy aquí para ayudarte en cualquier pregunta relacionada con las consultas en línea con el Dr. Simons. Si tienes alguna consulta, por favor hazmelo saber y estaré feliz de poder ayudarte. 😊",
+    "detail": {
+      "id": "chatcmpl-7T0Qiop9CWfrhghLpNRI4VmCKkxQU",
+      "object": "chat.completion",
+      "created": 1687147520,
+      "model": "gpt-3.5-turbo-0301",
+      "usage": {
+        "prompt_tokens": 2723,
+        "completion_tokens": 66,
+        "total_tokens": 2789
+      },
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "Lamento informarte que no entiendo el significado o contexto de tu mensaje. Te recuerdo que estoy aquí para ayudarte en cualquier pregunta relacionada con las consultas en línea con el Dr. Simons. Si tienes alguna consulta, por favor hazmelo saber y estaré feliz de poder ayudarte. 😊"
+          },
+          "finish_reason": "stop",
+          "index": 0
+        }
+      ]
+    },
+    "answer": "Lamento informarte que no entiendo el significado o contexto de tu mensaje. Te recuerdo que estoy aquí para ayudarte en cualquier pregunta relacionada con las consultas en línea con el Dr. Simons. Si tienes alguna consulta, por favor hazmelo saber y estaré feliz de poder ayudarte. 😊",
+    "from": "59168686427@c.us"
+  },
+  {
+    "role": "assistant",
+    "id": "chatcmpl-7T0X1atrAbygJ5J3EMtIItJ5QYQXR",
+    "parentMessageId": "b09783f8-9045-458c-ae4e-6db88a0d4e7b",
+    "text": "Lamento si te sientes insatisfecho o frustrado, pero recuerda que estoy aquí para ayudarte de la mejor manera posible en cualquier pregunta relacionada con las consultas en línea con el Dr. Simons. Si tienes alguna consulta específica, por favor házmelo saber y acá estaré para asistirte. 😊",
+    "detail": {
+      "id": "chatcmpl-7T0X1atrAbygJ5J3EMtIItJ5QYQXR",
+      "object": "chat.completion",
+      "created": 1687147911,
+      "model": "gpt-3.5-turbo-0301",
+      "usage": {
+        "prompt_tokens": 2800,
+        "completion_tokens": 73,
+        "total_tokens": 2873
+      },
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "Lamento si te sientes insatisfecho o frustrado, pero recuerda que estoy aquí para ayudarte de la mejor manera posible en cualquier pregunta relacionada con las consultas en línea con el Dr. Simons. Si tienes alguna consulta específica, por favor házmelo saber y acá estaré para asistirte. 😊"
+          },
+          "finish_reason": "stop",
+          "index": 0
+        }
+      ]
+    },
+    "answer": "Lamento si te sientes insatisfecho o frustrado, pero recuerda que estoy aquí para ayudarte de la mejor manera posible en cualquier pregunta relacionada con las consultas en línea con el Dr. Simons. Si tienes alguna consulta específica, por favor házmelo saber y acá estaré para asistirte. 😊",
+    "from": "59169324868@c.us"
+  },
+  {
+    "role": "assistant",
+    "id": "chatcmpl-7T0XLP52pwq74jQFmwrmmmEOG5q5h",
+    "parentMessageId": "aaf75ef0-9459-4f64-8f85-352b371ed947",
+    "text": "Lamentablemente, no puedo acceder a ese enlace ya que mi función es proporcionar información y asistencia relacionada con las consultas en línea con el Dr. Simons. Si tienes alguna pregunta o inquietud sobre las consultas en línea, por favor no dudes en preguntarme y estaré encantado de ayudarte en lo que necesites. 😊",
+    "detail": {
+      "id": "chatcmpl-7T0XLP52pwq74jQFmwrmmmEOG5q5h",
+      "object": "chat.completion",
+      "created": 1687147931,
+      "model": "gpt-3.5-turbo-0301",
+      "usage": {
+        "prompt_tokens": 2917,
+        "completion_tokens": 79,
+        "total_tokens": 2996
+      },
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "Lamentablemente, no puedo acceder a ese enlace ya que mi función es proporcionar información y asistencia relacionada con las consultas en línea con el Dr. Simons. Si tienes alguna pregunta o inquietud sobre las consultas en línea, por favor no dudes en preguntarme y estaré encantado de ayudarte en lo que necesites. 😊"
+          },
+          "finish_reason": "stop",
+          "index": 0
+        }
+      ]
+    },
+    "answer": "Lamentablemente, no puedo acceder a ese enlace ya que mi función es proporcionar información y asistencia relacionada con las consultas en línea con el Dr. Simons. Si tienes alguna pregunta o inquietud sobre las consultas en línea, por favor no dudes en preguntarme y estaré encantado de ayudarte en lo que necesites. 😊",
+    "from": "59169324868@c.us"
+  },
+  {
+    "role": "assistant",
+    "id": "chatcmpl-7T0ewoMa2iWQVqTK0r9HdngLJaqQo",
+    "parentMessageId": "1ca47206-b249-48c3-85f1-88aed5916e41",
+    "text": "Lamento informarte que debido a mi programación y funciones como modelo de lenguaje, no tengo la capacidad de acceder a enlaces externos o reproducir videos. Si tienes alguna pregunta relacionada con las consultas en línea con el Dr. Simons, por favor házmelo saber y estaré encantado de ayudarte en lo que necesites. 😊",
+    "detail": {
+      "id": "chatcmpl-7T0ewoMa2iWQVqTK0r9HdngLJaqQo",
+      "object": "chat.completion",
+      "created": 1687148402,
+      "model": "gpt-3.5-turbo-0301",
+      "usage": {
+        "prompt_tokens": 3026,
+        "completion_tokens": 79,
+        "total_tokens": 3105
+      },
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "Lamento informarte que debido a mi programación y funciones como modelo de lenguaje, no tengo la capacidad de acceder a enlaces externos o reproducir videos. Si tienes alguna pregunta relacionada con las consultas en línea con el Dr. Simons, por favor házmelo saber y estaré encantado de ayudarte en lo que necesites. 😊"
+          },
+          "finish_reason": "stop",
+          "index": 0
+        }
+      ]
+    },
+    "answer": "Lamento informarte que debido a mi programación y funciones como modelo de lenguaje, no tengo la capacidad de acceder a enlaces externos o reproducir videos. Si tienes alguna pregunta relacionada con las consultas en línea con el Dr. Simons, por favor házmelo saber y estaré encantado de ayudarte en lo que necesites. 😊",
+    "from": "59169324868@c.us"
+  },
+  {
+    "role": "assistant",
+    "id": "chatcmpl-7T9DxUg0n3V1BFfsZ0M0WwgD1xctK",
+    "parentMessageId": "3ce3f55f-1b12-4335-a0cb-5f10efe08ad3",
+    "text": "¡Hola! ¿En qué puedo ayudarte hoy en relación a las consultas en línea con el Dr. Simons? Estoy aquí para responder tus preguntas y brindar asistencia en lo que necesites. 😊",
+    "detail": {
+      "id": "chatcmpl-7T9DxUg0n3V1BFfsZ0M0WwgD1xctK",
+      "object": "chat.completion",
+      "created": 1687181325,
+      "model": "gpt-3.5-turbo-0301",
+      "usage": {
+        "prompt_tokens": 1889,
+        "completion_tokens": 47,
+        "total_tokens": 1936
+      },
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "¡Hola! ¿En qué puedo ayudarte hoy en relación a las consultas en línea con el Dr. Simons? Estoy aquí para responder tus preguntas y brindar asistencia en lo que necesites. 😊"
+          },
+          "finish_reason": "stop",
+          "index": 0
+        }
+      ]
+    },
+    "answer": "¡Hola! ¿En qué puedo ayudarte hoy en relación a las consultas en línea con el Dr. Simons? Estoy aquí para responder tus preguntas y brindar asistencia en lo que necesites. 😊",
+    "from": "59167694685@c.us"
   }
 ]

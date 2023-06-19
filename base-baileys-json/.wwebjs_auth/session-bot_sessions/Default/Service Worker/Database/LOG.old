@@ -1,3 +1,2 @@
-2023/06/12-18:39:10.241 645e Reusing MANIFEST /home/miguel/proyectos/DrCristianSimons/consulta-en-linea/wpp-bot/base-baileys-json/.wwebjs_auth/session-bot_sessions/Default/Service Worker/Database/MANIFEST-000001
-2023/06/12-18:39:10.241 645e Recovering log #3
-2023/06/12-18:39:10.241 645e Reusing old log /home/miguel/proyectos/DrCristianSimons/consulta-en-linea/wpp-bot/base-baileys-json/.wwebjs_auth/session-bot_sessions/Default/Service Worker/Database/000003.log 
+2023/06/18-19:16:54.319 248c Creating DB C:\Users\Usuario\Desktop\proyectos-personales\dr-simons-wpp-bot\base-baileys-json\.wwebjs_auth\session-bot_sessions\Default\Service Worker\Database since it was missing.
+2023/06/18-19:16:54.460 248c Reusing MANIFEST C:\Users\Usuario\Desktop\proyectos-personales\dr-simons-wpp-bot\base-baileys-json\.wwebjs_auth\session-bot_sessions\Default\Service Worker\Database/MANIFEST-000001
